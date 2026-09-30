@@ -14,28 +14,17 @@ Atualmente atuo na área de Telecom, transformando dados em insights para apoiar
 
 ## Stack Atual
 
-### Analytics & BI
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields-336791?style=for-the-badge&logo=sql&logoColor=white
-
-### Data & Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shieldsandas-150458?style=for-the-badge&logo=pandas&logoColor=white)https://img.shields.io/badge/SQLite-003B57?styleadge&logo=sqlite&logoColor=white
-
-### Versionamento
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?styleogo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oraclestyle=for-the-badge&logogoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub//img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor
-
-- Python para análise de dados
-- APIs e automações
-- PostgreSQL
-- ETL / ELT
-- Data Warehouse e Lakehouse
-- Data Engineering Fundamentals
-- Spark e PySpark
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ttps://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&)
 
 ## Objetivo
 
