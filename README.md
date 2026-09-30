@@ -12,33 +12,11 @@ Atualmente atuo na área de Telecom, transformando dados em insights para apoiar
 - 🚀 Construindo projetos práticos para consolidar conhecimentos em Analytics e Engenharia de Dados
 - 🌎 Localizado em São Paulo, Brasil
 
-## Stack Atual
+## 🧰 Stack Atual
 
-## 🧰 Linguagens e Ferramentas
+https://skills.syvixor.com/api/icons?i=python,pandas,spark,oracle,postgresql,powerbi,git,github,azure&perline=9&radius=40
 
-<p align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg
-  &nbsp;&nbsp;
-  https://cdn.simpleicons.org/powerbi/F2C811
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg
-  &nbsp;&nbsp;
-  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg
-</p>
+**Python • Pandas • Apache Spark / PySpark • SQL • Oracle • PostgreSQL • Power BI • Git • GitHub • Azure**
 
 ## Objetivo
 
