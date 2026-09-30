@@ -14,15 +14,31 @@ Atualmente atuo na área de Telecom, transformando dados em insights para apoiar
 
 ## Stack Atual
 
-## 🛠️ Stack Atual
+## 🧰 Linguagens e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?styleadge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-thelogo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=whiteSQL])(https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-!mg.shields.io/badge/Git-F05032?style=for-the-bgo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.badge/Azure-0078D4?stylebadge&logo=microsoftazure&logoColor=white)
+<p align="left">
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg
+  &nbsp;&nbsp;
+  https://cdn.simpleicons.org/powerbi/F2C811
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg
+  &nbsp;&nbsp;
+  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg
+</p>
 
 ## Objetivo
 
